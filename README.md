@@ -37,6 +37,7 @@ cd YTbell
 
 # Install the required libraries
 pip install -r requirements.txt
+```
 
 **3. Hosting:**
 **[Railway](https://railway.com/)** 
