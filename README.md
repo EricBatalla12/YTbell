@@ -12,7 +12,12 @@ With **YTbell** you can notify your community the recent video of your *favorite
 - 🛡️ **Built-in Shorts Filter:** Automatically detects and ignores YouTube Shorts.
 - 🎯 **Smart Channel Detection:** Just type `channel link` and the bot will find the hidden channel ID for you.
 - 💻 **100% Open Source:** Host it yourself or use our public instance.
-- 🌈 **Customizable:** You can create a custom bot integrating YTbell features 
+- 🌈 **Customizable:** You can build your own bot by integrating YTbell's features. 
+
+## ⌨️​ Commands
+ - **Command On-Demand:** Use `!lv` to see the last video.
+ - **Set youtube channel:** Use `!setytchannel <url>` to set your favorite channel.
+ - **Set text channel:** Use `!setcanal` to set where you want to receive notifications.  
 
 ---
 
@@ -42,3 +47,6 @@ pip install -r requirements.txt
 **3. Hosting:**
 **[Railway](https://railway.com/)** 
 **[Tutorial](https://www.figma.com/board/zZ7AVRpSNeVfhXknIk5fsv/Railway-tutorial?node-id=0-1&t=nsBlD8iNSfCQxBpt-1)**
+
+### Example of a bot created from YTbell
+**[ADObell](https://github.com/EricBatalla12/ADObell)**
